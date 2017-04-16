@@ -11,4 +11,4 @@ By: Subu Shankar
 - Install Joblib Library
 - Install Multiprocessing Library
 - Press "Run" if using a Python IDE
-- Type `python AESCracker.py` if using Linux
+- Type `python WEPCracker.py` if using Linux
